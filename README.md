@@ -1,5 +1,5 @@
 # CoRoT_Explorer
-![Uploading CoRoT_Explorer.jpg…]()
+![CoRoT_Explorer](https://github.com/AuditoryVO/CoRoT_Explorer/assets/144262864/ae63f3ef-0b69-4162-908c-bc7835732f85)
 CoRoT Light curves Dual Binaural/Ambisonics Sonification. 
 This prototype provides a method for the auditory exploration of the public IAS CoRoT light curve archive. The seven types of stellar spectra of the Harvard classification (O, B, A, F, G, K, M), are represented associated with the seven musical notes of the C major scale (C, B, A, F, G, D, E). The spectral class and the note associated with each sample appear at the bottom of the graphical interface, facilitating their association. In addition, a constant note (A) is reproduced in octaves mapped to the Morgan-Keenan luminosity class. The amplitude of each note is modulated by the mean flux of its corresponding light curve, and a Box-fitting Least Squares periodogram analysis provides the main period detected in the light curve, which is represented through a tremolo effect. Data: IAS CoRoT public archive.
 
