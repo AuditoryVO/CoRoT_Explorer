@@ -18,6 +18,10 @@ CONTENTS
 - LICENSE
 - README
 - requirements.txt
+- Evaluation folder:
+     Datasets: CoRot_data_edited.csv, CoRoT-stats-Balanced-final-csv, and CoRoT-STELIB-Original_feedback(March-May-2024).xlsx
+     Analysis Jupyter notebook: CoRoT_Survey_analysis-Final_ICAD2024.ipynb
+     Plotting Jupyter notebook: CoRoT_survey_Plot-Final_ICAD2024.ipynb
 
 CABBAGE/CSOUND INSTALLATION
 
